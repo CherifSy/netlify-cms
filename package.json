@@ -125,7 +125,7 @@
     "prosemirror-schema-table": "^0.16.0",
     "prosemirror-state": "^0.16.0",
     "prosemirror-transform": "^0.16.0",
-    "prosemirror-view": "^0.16.0",
+    "prosemirror-view": "^1.42.3",
     "react": "^15.1.0",
     "react-addons-css-transition-group": "^15.3.1",
     "react-autosuggest": "^7.0.1",
